@@ -1,0 +1,11 @@
+edad,delito_previo,num_delitos_previos,meses_en_prision,empleo,apoyo_familiar,consumo_sustancias,nivel_educativo,supervision_post
+19,Robo,2,36,Si,No,Si,Preparatoria,Media
+53,Robo,1,15,No,No,No,Universidad,Alta
+58,Fraude,1,16,Si,No,Si,Preparatoria,Media
+27,Robo,2,15,No,No,No,Preparatoria,Media
+58,Violencia_familiar,1,38,Si,Si,No,Primaria,Baja
+36,Violencia_familiar,1,27,No,Si,No,Primaria,Media
+22,Robo,0,43,No,Si,No,Primaria,Media
+23,Narcomenudeo,0,12,Si,Si,Si,Primaria,Baja
+19,Fraude,1,53,No,Si,No,Secundaria,Media
+41,Robo,1,43,Si,Si,No,Primaria,Baja
